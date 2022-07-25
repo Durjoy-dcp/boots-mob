@@ -11,3 +11,11 @@
 .primary-color {
     color: blue;
 }
+
+.img-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.412), rgba(0, 0, 0, 0.536)), url("img/background.png");
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
